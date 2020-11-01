@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Java_Zavrsni">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Java_Zavrsni/dist/Java_Zavrsni.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
